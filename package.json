@@ -1,0 +1,12 @@
+{
+  "name": "leet",
+  "version": "1.0.0",
+  "scripts": {
+    "start_001.twoSums": "node -r ts-node/register -r ./src/array/001.twoSums.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
